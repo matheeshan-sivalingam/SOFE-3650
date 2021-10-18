@@ -1,4 +1,4 @@
-# SOFE3650 Final Project
+# SOFE3650 Final Project - Software Architecture Analysis of Weeble 
 
 ![Weeble Logo](weeble_logo.png)
 
