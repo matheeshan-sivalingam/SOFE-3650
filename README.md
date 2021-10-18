@@ -3,9 +3,9 @@
 ![Weeble Logo](weeble_logo.png)
 
 ## Group members
-Matheeshan Sivalingam <br> 
-Harvee Sandu <br>
-Julian Pascual <br>
+Matheeshan Sivalingam (100703887)<br> 
+Harvee Sandu (100704514)<br>
+Julian Pascual (100707563) <br>
 Ashad Ahmed <br>
 
 ## Project Description 
