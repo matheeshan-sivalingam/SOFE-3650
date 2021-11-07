@@ -27,8 +27,8 @@ individuals who are seeking intimate as well as platonic relationships.
 5. User must be able to accept or reject potential matches 
 
 **Non-Functional Requirements**
-1. User should not be able to make multiple acccounts (one account per email)
-2. The software should be able to find and load atleast 5 potential matches immediately  
-3. User can add more than one picture for there profile 
+1. The website should find and display all potential matches to a user in less than 3 seconds
+2. The website should be able to run on all modern browsers (Edge, Google Chrome, Safari, etc)  
+3. The database must be able to store atleast 10000 user profiles 
 4. The user interface should be intuitive and easy to use 
-5. The user should be able to see potential matches user information (name, photos, location, biography, hobbies)
+5. The user should only see matches once. 
