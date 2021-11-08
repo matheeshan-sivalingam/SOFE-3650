@@ -33,7 +33,7 @@ individuals who are seeking intimate as well as platonic relationships.
 4. The user interface should be intuitive and easy to use 
 5. All the user's information must be stored securely into the database. 
 
-## Use case diagram
+## Use case diagram<br>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCase%20Diagram.jpg)
 **Description**
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png)
