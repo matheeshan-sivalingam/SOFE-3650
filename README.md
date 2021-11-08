@@ -36,4 +36,8 @@ individuals who are seeking intimate as well as platonic relationships.
 ## Use case diagram
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCase%20Diagram.jpg)
 **Description**
-
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png)
+**Quality Attributes**
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/QA.png)
+**Constraints**
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png)
