@@ -35,6 +35,4 @@ individuals who are seeking intimate as well as platonic relationships.
 
 ## Use case diagram
 [Use Case Diagram1.jpg]
-**Description
-![UsecaseDes] 
 
