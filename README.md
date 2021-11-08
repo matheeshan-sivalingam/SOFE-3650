@@ -34,5 +34,6 @@ individuals who are seeking intimate as well as platonic relationships.
 5. All the user's information must be stored securely into the database. 
 
 ## Use case diagram
-![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Use%20Case%20Diagram1.jpg)
+![image](images/UseCase Diagram.jpg)
+**Description**
 
