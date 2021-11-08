@@ -32,3 +32,9 @@ individuals who are seeking intimate as well as platonic relationships.
 3. The database must be able to store atleast 10000 user profiles 
 4. The user interface should be intuitive and easy to use 
 5. All the user's information must be stored securely into the database. 
+
+## Use case diagram
+![Usecase] (Use Case Diagram1.jpg)
+**Description
+![UsecaseDes] 
+
