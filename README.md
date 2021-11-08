@@ -34,7 +34,7 @@ individuals who are seeking intimate as well as platonic relationships.
 5. All the user's information must be stored securely into the database. 
 
 ## Use case diagram
-![Usecase] (Use Case Diagram1.jpg)
+![Usecase](Use Case Diagram1.jpg)
 **Description
 ![UsecaseDes] 
 
