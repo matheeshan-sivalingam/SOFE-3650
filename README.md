@@ -19,14 +19,14 @@ on prioritizing the hobbies and interests of the user. This software is intended
 individuals who are seeking intimate as well as platonic relationships. 
 
 ## Functional/Non-Functional Requirements 
-**Functional Requirements**
+### Functional Requirements
 1. User must be able to create an account by inputting there first name, last name, email, password, date of birth, and gender.
 2. User can only be able to login to website if their inputted username and password matches with the username and password in the database
 3. User must be able to specify their gender preference, location, and atleast one hobby.
 4. User should only see potential matches that fits their specific criteria (gender preference and hobby)  
 5. User must be able to accept or reject potential matches 
 
-**Non-Functional Requirements**
+### Non-Functional Requirements
 1. The website should find and display all potential matches to a user in less than 3 seconds
 2. The website should be able to run on all modern browsers (Edge, Google Chrome, Safari, etc)  
 3. The database must be able to store atleast 10000 user profiles 
@@ -35,9 +35,14 @@ individuals who are seeking intimate as well as platonic relationships.
 
 ## Use case diagram
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCase%20Diagram.jpg)<br>
-**Description**
+### Description
 <br>![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png)<br>
-**Quality Attributes**
+### Quality Attributes
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/QA.png)
-**Constraints**
+### Constraints
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png)
+
+## Iterations
+### [Iteration 1](https://pages.github.com/)
+### [Iteration 2](https://pages.github.com/)
+### [Iteration 3](https://pages.github.com/)
