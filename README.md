@@ -44,6 +44,6 @@ individuals who are seeking intimate as well as platonic relationships.
 ## Architectural Concerns
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/ArchitecturalConcerns.png)
 ## Iterations
-### [Iteration 1](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
+### [Iteration 1 - Establishing an Overall System Structure](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
 ### [Iteration 2](https://pages.github.com/)
 ### [Iteration 3](https://pages.github.com/)
