@@ -34,13 +34,13 @@ individuals who are seeking intimate as well as platonic relationships.
 5. All the user's information must be stored securely into the database. 
 
 ## Use case diagram
-![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCase%20Diagram.jpg)<br>
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCase%20Diagram.jpg?)<br>
 ### Description
-<br>![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png)<br>
+<br>![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png?)<br>
 ### Quality Attributes
-![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/QA.png)
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/QA.png?)
 ### Constraints
-![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png)
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png?)
 ## Architectural Concerns
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/ArchitecturalConcerns.png)
 ## Iterations
