@@ -1,6 +1,6 @@
 # SOFE3650 Final Project - Software Architecture Analysis of Weeble 
 
-![Weeble Logo](weeble_logo.png)
+![Weeble Logo](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/weeble_logo.png)
 
 ## Group members
 Matheeshan Sivalingam (100703887)<br> 
