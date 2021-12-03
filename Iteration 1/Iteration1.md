@@ -38,3 +38,19 @@ Add application facade component to the web application architecture|Implementin
 ## Step 6: Sketch Views and Record Design Decisions
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Iteration1Outcome.png)
 
+## Step 7: Perform Analysis of Current Design, Review Iteration Goal and Achievement of Design Purpose
+Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration
+------------- | ------------- | ------------- | -------------
+||UC-1||Reference architecture establishes the modules that are utilized for this use case.
+||UC-2||Reference architecture establishes the modules that are utilized for this use case.
+||UC-3||Reference architecture establishes the modules that are utilized for this use case.
+||UC-4||Reference architecture establishes the modules that are utilized for this use case.
+||QA-2||Web application reference architecture utilized
+||QA-3||Java was chosen, which brings several benefits which makes it more difficult to introduce an SQL injection vulnerability versus the discarded alternatives.
+||CON-1||MySQL is capable of handling a large database.
+CON-3||||Matching algorithm not addressed.
+CON-5||||Matching algorithm not addressed.
+||CRN-1||The web application reference architecture was utilized, allowing for a separation of layers. The application facade optional component has also been selected, allowing easy extension of business layer code while minimizing impact on the presentation layer.
+|||CRN-3|MySQL was chosen to drive the database backend, and Java will be used as the primary programming language for the project.
+||CRN-4||The MySQL database is capable of high performance access and storage with large databases.
+|CRN-6|||Matching algorithm not addressed.
