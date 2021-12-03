@@ -36,5 +36,5 @@ Design Decision and Location | Rationale
 Add application facade component to the web application architecture|Implementing the facade component to the web application architecture will provide an extra layer of abstraction between the presentation and business layer.
 
 ## Step 6: Sketch Views and Record Design Decisions
-[image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Iteration1Outcome.png)
+![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Iteration1Outcome.png)
 
