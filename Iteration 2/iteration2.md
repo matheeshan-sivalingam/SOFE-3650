@@ -1,3 +1,4 @@
+# Iteration 2 - Identifying Structures to Support Primary Functionality 
 ## Step 2: Establish iteration goal by selecting drivers
 The goal of this iteration is to address the general architectural concern of identifying structures to support primary functionality. The system's primary use cases are the following: <br>
 - UC-1: Account creation
