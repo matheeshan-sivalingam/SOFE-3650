@@ -6,7 +6,7 @@ The goal of this iteration is to address the general architectural concern of id
 - UC-3: User’s information required (location, sexual orientation, hobbies)
 - UC-4: Profile suggestions and matches
 
-
+[Use case descriptions](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png)
 
 ## Step 3: Establish iteration goal by selecting drivers
 The elements that will be refined in this iteration are the modules located in the different layers defined by the Web application reference architecture created in the last iteration. 
