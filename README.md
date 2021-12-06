@@ -47,3 +47,7 @@ individuals who are seeking intimate as well as platonic relationships.
 ### [Iteration 1 - Establishing an Overall System Structure](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
 ### [Iteration 2 - Identifying Structures to Support Primary Functionality](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%202/iteration2.md)
 ### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://pages.github.com/)
+
+## Appendix
+[Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)
+[Presentation slides](https://docs.google.com/presentation/d/1JY9X4QtH4G_LmyMREkuHsE9DJMp2nOsP86n26DD2asU/edit?usp=sharing)
