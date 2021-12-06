@@ -25,16 +25,16 @@ Deploy protection proxy design pattern by implementing a proxy interface that ac
 ## Step 7: Perform Analysis of Current Design, Review Iteration Goal and Achievement of Design Purpose
 Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration
 ------------- | ------------- | ------------- | -------------
-UC-1||||Not addressed
-||UC-2||Implementing the elements can partially be used to secure the login process.
-||UC-3||Implementing the elements can ensure that user data is secured 
-UC-4||||Not addressed
+UC-1||| Not addressed
+||UC-2|| Implementing the elements can partially be used to secure the login process.
+||UC-3|| Implementing the elements can ensure that user data is secured 
+UC-4||| Not addressed
 |||QA-2|By utilizing the elements , QA-2 can be achieved as TDE ensures that the data is stored securely and protection proxy prevents unauthorized access
-QA-3||||Not addressed
+QA-3|||Not addressed
 ||CON-1||Implementing the elements ensures that the data is securely stored
-CON-3||||Not addressed
-CON-5||||Not addressed
-CRN-1||||Not addressed
-CRN-3||||Not addressed
-CRN-4||||Not addressed
-CRN-6||||Not addressed
+CON-3|||Not addressed
+CON-5|||Not addressed
+CRN-1|||Not addressed
+CRN-3|||Not addressed
+CRN-4|||Not addressed
+CRN-6|||Not addressed
