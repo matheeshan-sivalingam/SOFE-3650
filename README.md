@@ -8,15 +8,16 @@ Harvee Sandu (100704514)<br>
 Julian Pascual (100707563) <br>
 Ashad Ahmed (100745913)<br>
 ## Table of Contents
-### [project-description](#project-description)
+- [Project Description](#project-description)
+- [Functional/Non-Functional Requirements](#fun-requirements)
+- [Use Case Diagram](#useCase)
+- [Iterations](#iter)
+- [Appendix](#app)
 
 
 
 
-
-
-
-## <a name = "project-description" style="color: black;">Project Descriptions</a>
+## <a name = "project-description" style="color: black;">Project Description</a>
 Weeble is a web application that allows users to match and connect with individuals who share
 similar interests and/or hobbies. This application will allow the user to create a profile in which
 they can express their preferences, hobbies, and interests. It will then take these parameters into
@@ -25,7 +26,7 @@ dating websites in the market, the algorithm designed for this application will 
 on prioritizing the hobbies and interests of the user. This software is intended to help facilitate
 individuals who are seeking intimate as well as platonic relationships. 
 
-## Functional/Non-Functional Requirements 
+## <a name = "fun-requirements" style="color: black;">Functional/Non-Functional Requirements </a>
 ### Functional Requirements
 1. User must be able to create an account by inputting there first name, last name, email, password, date of birth, and gender.
 2. User can only be able to login to website if their inputted username and password matches with the username and password in the database
@@ -40,7 +41,7 @@ individuals who are seeking intimate as well as platonic relationships.
 4. The user interface should be intuitive and easy to use 
 5. All the user's information must be stored securely into the database. 
 
-## Use case diagram
+## <a name = "useCase" style="color: black;">Use Case Diagram</a>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDiagram.png?)<br>
 ### Description
 <br>![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png?)<br>
@@ -50,11 +51,13 @@ individuals who are seeking intimate as well as platonic relationships.
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png?)
 ### Architectural Concerns
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/ArchitecturalConcerns.png)
-## Iterations
+
+
+## <a name = "iter" style="color: black;">Iterations</a>
 ### [Iteration 1 - Establishing an Overall System Structure](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
 ### [Iteration 2 - Identifying Structures to Support Primary Functionality](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%202/iteration2.md)
 ### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://pages.github.com/)
 
-## Appendix
+## <a name = "app" style="color: black;">Appendix</a>
 ### [Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)<br>
 ### [Presentation slides](https://docs.google.com/presentation/d/1JY9X4QtH4G_LmyMREkuHsE9DJMp2nOsP86n26DD2asU/edit?usp=sharing)
