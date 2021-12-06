@@ -8,16 +8,20 @@ Harvee Sandu (100704514)<br>
 Julian Pascual (100707563) <br>
 Ashad Ahmed (100745913)<br>
 ## Table of Contents
-- [Project Description](#project-description)
+- [Project Description](#pd)
 - [Functional/Non-Functional Requirements](#fun-requirements)
 - [Use Case Diagram](#useCase)
+  - [Description](#des)  
+  - [Quality Attributes](#qa)
+  - [Constraints](#con)
+  - [Architectural Concerns](#ac)
 - [Iterations](#iter)
 - [Appendix](#app)
 
 
 
 
-## <a name = "project-description" style="color: black;">Project Description</a>
+## <a name = "pd" style="color: black;">Project Description</a>
 Weeble is a web application that allows users to match and connect with individuals who share
 similar interests and/or hobbies. This application will allow the user to create a profile in which
 they can express their preferences, hobbies, and interests. It will then take these parameters into
@@ -43,13 +47,13 @@ individuals who are seeking intimate as well as platonic relationships.
 
 ## <a name = "useCase" style="color: black;">Use Case Diagram</a>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDiagram.png?)<br>
-### Description
+### <a name = "des" style="color: black;">Description</a>
 <br>![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/UseCaseDes.png?)<br>
-### Quality Attributes
+### <a name = "qa" style="color: black;">Quality Attributes</a>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/QA.png?)
-### Constraints
+### <a name = "con" style="color: black;">Constraints</a>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/Constraints.png?)
-### Architectural Concerns
+### <a name = "ac" style="color: black;">Architectural Concerns</a>
 ![image](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/images/ArchitecturalConcerns.png)
 
 
