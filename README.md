@@ -60,7 +60,7 @@ individuals who are seeking intimate as well as platonic relationships.
 ## <a name = "iter" style="color: black;">Iterations</a>
 ### [Iteration 1 - Establishing an Overall System Structure](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
 ### [Iteration 2 - Identifying Structures to Support Primary Functionality](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%202/iteration2.md)
-### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://pages.github.com/)
+### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%203/Iteration3.md)
 
 ## <a name = "app" style="color: black;">Appendix</a>
 ### [Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)<br>
