@@ -49,5 +49,5 @@ individuals who are seeking intimate as well as platonic relationships.
 ### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://pages.github.com/)
 
 ## Appendix
-###[Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)<br>
-###[Presentation slides](https://docs.google.com/presentation/d/1JY9X4QtH4G_LmyMREkuHsE9DJMp2nOsP86n26DD2asU/edit?usp=sharing)
+### [Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)<br>
+### [Presentation slides](https://docs.google.com/presentation/d/1JY9X4QtH4G_LmyMREkuHsE9DJMp2nOsP86n26DD2asU/edit?usp=sharing)
