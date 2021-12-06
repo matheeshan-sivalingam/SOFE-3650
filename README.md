@@ -8,7 +8,7 @@ Harvee Sandu (100704514)<br>
 Julian Pascual (100707563) <br>
 Ashad Ahmed (100745913)<br>
 # Table of Contents
-## [## Project Description](SOFE3650-WeebleSoftwareArchitecture/README.md#L12)
+## [## Project Description](README.md#L12)
 ## Project Description 
 
 Weeble is a web application that allows users to match and connect with individuals who share
