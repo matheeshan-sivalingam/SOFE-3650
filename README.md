@@ -7,10 +7,16 @@ Matheeshan Sivalingam (100703887)<br>
 Harvee Sandu (100704514)<br>
 Julian Pascual (100707563) <br>
 Ashad Ahmed (100745913)<br>
-# Table of Contents
-## [Project Description](#project-description)
+## Table of Contents
+### [project-description](#project-description)
 
 
+
+
+
+
+
+## <a name = "project-description" style="color: black;">Project Descriptions</a>
 Weeble is a web application that allows users to match and connect with individuals who share
 similar interests and/or hobbies. This application will allow the user to create a profile in which
 they can express their preferences, hobbies, and interests. It will then take these parameters into
@@ -48,7 +54,7 @@ individuals who are seeking intimate as well as platonic relationships.
 ### [Iteration 1 - Establishing an Overall System Structure](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%201/Iteration1.md)
 ### [Iteration 2 - Identifying Structures to Support Primary Functionality](https://github.com/matheeshan-sivalingam/SOFE3650-WeebleSoftwareArchitecture/blob/main/Iteration%202/iteration2.md)
 ### [Iteration 3 - Addressing Quality Attribute Scenario Driver](https://pages.github.com/)
-## <a name = "project-description"></a>Project Descriptions
+
 ## Appendix
 ### [Master Document](https://docs.google.com/document/d/1Ztx1glYZJMI7zUGeRQDZ8p5d3o8vcK3YSCOyWBPXVzI/edit?usp=sharing)<br>
 ### [Presentation slides](https://docs.google.com/presentation/d/1JY9X4QtH4G_LmyMREkuHsE9DJMp2nOsP86n26DD2asU/edit?usp=sharing)
